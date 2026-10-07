@@ -1,0 +1,19 @@
+13
+-----
+16
+-----
+-10
+-----
+8
+-----
+15.5
+-----
+10
+-----
+Error on line 13: Cannot divide by zero.
+-----
+Error on line 15: Unmatched opening parenthesis.
+-----
+Error on line 17: Expected a number before the operator.
+-----
+10
