@@ -17,3 +17,5 @@ Error on line 15: Unmatched opening parenthesis.
 Error on line 17: Expected a number before the operator.
 -----
 10
+--
+72
